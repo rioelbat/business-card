@@ -1,4 +1,4 @@
-# Basketball Scoreboard
+# Business Card
 
 <p align="center">
   <img src="images/preview.PNG" alt="Business Card Project Preview">
