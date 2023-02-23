@@ -1,21 +1,38 @@
-# cocd54dd4ad75e4a3a4667e64
+# Basketball Scoreboard
 
-Quick start:
+<p align="center">
+  <img src="images/preview.PNG" alt="Business Card Project Preview">
+</p>
+
+## Description
+
+This is a simple business card to learn about styling with CSS. I built this with only HTML and CSS without a framework.
+
+## How to run it
+
+1. Clone it with this command on your terminal.
 
 ```
-$ npm install
-$ npm start
-````
+git clone https://github.com/rioelbat/business-card.git
+```
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+2. Open `business-card`folder
+3. Run a simple http server with Python or Node
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Python
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+```
+python -m SimpleHTTPServer 8000
+```
 
-Happy Coding!
+Python3
+
+```
+python3 -m http.server 8000
+```
+
+Node
+
+```
+npx http-server -p 8000
+```
